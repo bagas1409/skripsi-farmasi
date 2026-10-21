@@ -185,6 +185,8 @@ Dari aspek organ tanaman yang dimanfaatkan, berbagai penelitian etnomedisin seca
 
 * Otoluwa dkk. (2025) mencatat daun sebagai organ dominan dengan proporsi 40,0%.
 
+* Ratnasari dkk. (2025) dalam studi etnomedisin antihipertensi pada masyarakat perbatasan di Kecamatan Negeri Katon Kabupaten Pesawaran melaporkan bahwa daun merupakan organ yang paling dominan digunakan, mencapai 77% pemanfaatan, disusul rimpang (11%), buah (5%), dan batang (4%).
+
 
 * Surianti dkk. (2025) melaporkan pemanfaatan daun sebesar 50% di antara 10 tanaman utama Suku Bugis Wajo.
 
@@ -199,7 +201,7 @@ Dominasi daun memiliki rasionalitas fitofarmakologi yang kuat:
 
 ### 2.4.2 Metode Pengolahan dan Cara Konsumsi Tradisional
 
-Dalam praktik etnomedisin, metode preparasi ramuan antihipertensi secara dominan memanfaatkan teknik **dekoksi (*decoction*) atau perebusan**. Ikhsan & Kurniawan (2025) mendokumentasikan metode perebusan mencapai 91%, Novriana dkk. (2024) mencatat perebusan dan pengejusan (*blending*) sebagai metode utama, dan Surianti dkk. (2025) mengonfirmasi dominasi dekoksi air.
+Dalam praktik etnomedisin, metode preparasi ramuan antihipertensi secara dominan memanfaatkan teknik **dekoksi (*decoction*) atau perebusan**. Ikhsan & Kurniawan (2025) mendokumentasikan metode perebusan mencapai 91%, Novriana dkk. (2024) mencatat perebusan dan pengejusan (*blending*) sebagai metode utama, dan Surianti dkk. (2025) mengonfirmasi dominasi dekoksi air, serta Ratnasari dkk. (2025) mencatat metode perebusan mendominasi hingga 76%–80% pemanfaatan, disusul dikunyah langsung (16%) dan diblender (6%).
 
 Perebusan menggunakan air sebagai pelarut universal terbukti efisien secara termodinamika untuk mendisrupsi dinding sel selulosa tumbuhan, melarutkan senyawa polar hidrofilik (seperti glikosida flavonoid, saponin, tanin, dan kalium), serta menguapkan sebagian senyawa volatil yang berpotensi toksik. Rute administrasi utama yang tercatat secara mutlak adalah dikonsumsi secara per-oral melalui **diminum** (mencapai 96% pada Ikhsan & Kurniawan 2025; 82,5% pada Otoluwa dkk. 2025; serta 100% pada Surianti dkk. 2025), yang menjamin bioavailabilitas absorpsi sistemik senyawa aktif melalui saluran gastrointestinal.
 
@@ -248,6 +250,8 @@ Tumbuhan herba dan buah-buahan mengandung konsentrasi kation kalium ($K^+$) yang
 
 ### 2.4.4 Tinjauan Spesies Tanaman Antihipertensi Potensial
 
+Kajian kepustakaan terhadap berbagai penelitian etnomedisin mutakhir (2024–2026), baik dalam skala komparatif nasional lintas etnis (Novriana dkk., 2024; Surianti dkk., 2025; Ikhsan & Kurniawan, 2025; Muslihin dkk., 2024; Ningsih & Syarif, 2025) maupun riset empiris lokal terdekat pada masyarakat etnis Jawa di Kecamatan Negeri Katon Kabupaten Pesawaran yang berbatasan langsung dengan lokus penelitian (Ratnasari dkk., 2025), mengidentifikasi keberadaan sejumlah spesies flora berkhasiat antihipertensi yang konsisten dimanfaatkan. Tinjauan komprehensif mengenai profil botani, data pemanfaatan etnomedisin, konstituen fitokimia spesifik, serta mekanisme farmakodinamika masing-masing spesies diuraikan sebagai berikut:
+
 1. **Mentimun (*Cucumis sativus* L. - Cucurbitaceae)**
 * *Data Etnomedisin:* Menempati frekuensi sitasi tertinggi pada studi Bugis Wajo (RFC 93,75%) (Surianti dkk., 2025) dan 32 sitasi di Subulussalam Aceh (Novriana dkk., 2024).
 
@@ -261,7 +265,7 @@ Tumbuhan herba dan buah-buahan mengandung konsentrasi kation kalium ($K^+$) yang
 
 
 2. **Daun Salam (*Syzygium polyanthum* (Wight) Walp. - Myrtaceae)**
-* *Data Etnomedisin:* Memperoleh RFC 87,50% di Suku Bugis Wajo (Surianti dkk., 2025) dan dicatat oleh Novriana dkk. (2024).
+* *Data Etnomedisin:* Memperoleh RFC 87,50% di Suku Bugis Wajo (Surianti dkk., 2025), dicatat dalam review etnofarmasi nasional (Novriana dkk., 2024), serta menempati urutan kedua terbanyak (15%) pada masyarakat etnis Jawa di Kecamatan Negeri Katon Kabupaten Pesawaran yang diolah dengan cara direbus (Ratnasari dkk., 2025).
 
 
 * *Konstituen Kimia:* Flavonoid (kuersetin, mirisetin), tanin terkondensasi, minyak atsiri (sitral, eugenol), dan saponin.
@@ -273,7 +277,7 @@ Tumbuhan herba dan buah-buahan mengandung konsentrasi kation kalium ($K^+$) yang
 
 
 3. **Seledri (*Apium graveolens* L. - Apiaceae)**
-* *Data Etnomedisin:* RFC 81,25% di Bugis Wajo (Surianti dkk., 2025) dan 17 sitasi di Subulussalam (Novriana dkk., 2024).
+* *Data Etnomedisin:* RFC 81,25% di Bugis Wajo (Surianti dkk., 2025), 17 sitasi di Subulussalam (Novriana dkk., 2024), serta dimanfaatkan sebesar 5% oleh masyarakat Kecamatan Negeri Katon Kabupaten Pesawaran (Ratnasari dkk., 2025).
 
 
 * *Konstituen Kimia:* Flavon apigenin, 3-n-butilftalid (*phthalides*), manitol, dan kalium.
@@ -285,7 +289,7 @@ Tumbuhan herba dan buah-buahan mengandung konsentrasi kation kalium ($K^+$) yang
 
 
 4. **Bawang Putih (*Allium sativum* L. - Amaryllidaceae)**
-* *Data Etnomedisin:* RFC 75,00% pada Suku Bugis Wajo (Surianti dkk., 2025) dan didokumentasikan di berbagai wilayah etnis (Novriana dkk., 2024; Ikhsan & Kurniawan, 2025).
+* *Data Etnomedisin:* RFC 75,00% pada Suku Bugis Wajo (Surianti dkk., 2025), didokumentasikan di berbagai wilayah etnis (Novriana dkk., 2024; Ikhsan & Kurniawan, 2025), serta dimanfaatkan sebesar 2% di Negeri Katon Pesawaran (Ratnasari dkk., 2025).
 
 
 * *Konstituen Kimia:* Alisin, dialil disulfida, adenosin, scordinin, dan kalium.
@@ -364,6 +368,85 @@ Tumbuhan herba dan buah-buahan mengandung konsentrasi kation kalium ($K^+$) yang
 
 
 * *Mekanisme Hipotensif:* Antosianin menghambat kerja ACE secara poten dan menstimulasi pembuangan natrium tubular ginjal melalui mekanisme diuresis.
+
+11. **Daun Alpukat (*Persea americana* Mill. - Lauraceae)**
+* *Data Etnomedisin:* Menempati peringkat pertama tertinggi yang paling banyak dimanfaatkan oleh masyarakat sebagai obat antihipertensi dengan persentase mencapai 27% pada studi etnomedisin di Kecamatan Negeri Katon, Kabupaten Pesawaran oleh peneliti Program Studi Sarjana Farmasi Universitas Aisyah Pringsewu (Ratnasari dkk., 2025). Ramuan ini diolah secara dominan dengan cara direbus air dan diminum secara teratur.
+* *Konstituen Kimia:* Flavonoid (kuersetin, luteolin, apigenin, rutin), saponin, tanin, asam lemak tak jenuh, alkaloid, serat larut, serta kation kalium berkonsentrasi tinggi.
+* *Mekanisme Hipotensif:* Senyawa flavonoid dalam daun alpukat merangsang fosforilasi enzim *endothelial nitric oxide synthase* (eNOS) sehingga meningkatkan produksi dan bioavailabilitas *nitric oxide* (NO) vaskular yang memicu relaksasi otot polos pembuluh darah (vasodilatasi arteriol perifer). Selain itu, flavonoid daun alpukat bertindak sebagai inhibitor kompetitif enzim pengonversi angiotensin (ACE), sedangkan kandungan kalium yang melimpah memfasilitasi efek diuresis natriuretik pada tubulus ginjal, mengurangi volume cairan intravaskular dan menurunkan beban hemodinamik jantung.
+
+12. **Daun Sirih (*Piper betle* L. - Piperaceae)**
+* *Data Etnomedisin:* Menempati peringkat ketiga terbanyak dengan persentase pemanfaatan sebesar 13% pada masyarakat Kecamatan Negeri Katon Kabupaten Pesawaran (Ratnasari dkk., 2025).
+* *Konstituen Kimia:* Minyak atsiri (kavikol, hidroksikavikol, kavibetol, eugenol, karvakrol), flavonoid, tanin, dan saponin.
+* *Mekanisme Hipotensif:* Senyawa bioaktif eugenol dan hidroksikavikol bertindak sebagai relaksan otot polos vaskular perifer melalui modulasi kanal kalsium, menghambat agregasi trombosit, serta memberikan perlindungan antioksidan poten terhadap disfungsi endotel vaskular yang diinduksi oleh stres oksidatif (*reactive oxygen species*/ROS).
+
+13. **Kumis Kucing (*Orthosiphon stamineus* Benth. / *Orthosiphon aristatus* (Blume) Miq. - Lamiaceae)**
+* *Data Etnomedisin:* Dimanfaatkan sebesar 5% pada masyarakat Negeri Katon Pesawaran (Ratnasari dkk., 2025) serta dilaporkan luas dalam tinjauan etnofarmasi nasional (Novriana dkk., 2024).
+* *Konstituen Kimia:* Sinensetin, eupatorin, asam rosmarinat, glukosida ortosifonin, flavonoid polifenol, dan garam kalium berkadar tinggi.
+* *Mekanisme Hipotensif:* Bekerja sebagai diuretik alami poten melalui mekanisme antagonisme selektif pada reseptor adenosin $A_1$, merangsang ekskresi natrium dan klorida di tubulus ginjal (efek natriuresis-diuresis) tanpa memicu hipokalemia berat karena diimbangi pasokan kalium alaminya, serta merelaksasi otot polos dinding pembuluh darah.
+
+14. **Daun Sirsak (*Annona muricata* L. - Annonaceae)**
+* *Data Etnomedisin:* Dimanfaatkan oleh masyarakat di Kecamatan Negeri Katon Pesawaran (Ratnasari dkk., 2025) serta didokumentasikan di wilayah Maros (Alifiah dkk., 2026).
+* *Konstituen Kimia:* Alkaloid isokuinolin (anonain, asimilobin), asetogenin anonaseus, flavonoid, tanin, dan kalium.
+* *Mekanisme Hipotensif:* Senyawa alkaloid anonain memblokade influks ion kalsium ekstraseluler melalui kanal kalsium tipe L pada membran sel otot polos dinding arteri serta meredam tonus simpatis, memicu vasodilatasi dan menurunkan resistensi perifer total.
+
+15. **Ciplukan (*Physalis angulata* L. - Solanaceae)**
+* *Data Etnomedisin:* Dimanfaatkan sebesar 4% oleh masyarakat Kecamatan Negeri Katon Kabupaten Pesawaran sebagai ramuan herbal penurun tekanan darah (Ratnasari dkk., 2025).
+* *Konstituen Kimia:* Fisalin (*physalin* A, B, D, F), withanolida, flavonoid, saponin, tanin, dan alkaloid.
+* *Mekanisme Hipotensif:* Fisalin dan withanolida bertindak sebagai agen antiinflamasi dan antioksidan vaskular yang memperbaiki elastisitas endotel, serta menghambat influks ion kalsium yang memicu relaksasi otot polos arteriola.
+
+16. **Daun Nangka (*Artocarpus heterophyllus* Lam. - Moraceae)**
+* *Data Etnomedisin:* Dimanfaatkan sebesar 4% oleh masyarakat etnis Jawa di Kecamatan Negeri Katon, Kabupaten Pesawaran sebagai ramuan herbal antihipertensi (Ratnasari dkk., 2025). Daun nangka umumnya direbus dan air rebusannya diminum secara teratur.
+* *Konstituen Kimia:* Flavonoid terprenilasi (morin, artokarpin, cycloartocarpin, artokarpetin), tanin, saponin, dan kalium.
+* *Mekanisme Hipotensif:* Senyawa morin dan artokarpin memicu relaksasi otot polos pembuluh darah melalui peningkatan sintesis dan bioavailabilitas *nitric oxide* (NO) endotel serta memblokade influks ion kalsium ekstraseluler pada miosit vaskular, menurunkan tahanan resistensi perifer total.
+
+17. **Kunyit (*Curcuma longa* L. / *Curcuma domestica* Val. - Zingiberaceae)**
+* *Data Etnomedisin:* Dimanfaatkan sebesar 2% oleh masyarakat di Kecamatan Negeri Katon, Kabupaten Pesawaran sebagai ramuan jamu rebus penurun tekanan darah (Ratnasari dkk., 2025). Bagian rimpang kunyit merupakan salah satu pemanfaatan organ rimpang (11%) dalam penanganan hipertensi lokal.
+* *Konstituen Kimia:* Kurkuminoid (kurkumin, demetoksikurkumin, bisdemetoksikurkumin), minyak atsiri (turmeron, zingiberen), alkaloid, dan flavonoid.
+* *Mekanisme Hipotensif:* Kurkumin bekerja sebagai antioksidan vaskular poten yang meningkatkan ekspresi enzim eNOS endotel, menekan degradasi NO oleh *reactive oxygen species* (ROS), serta menghambat transduksi sinyal vasokonstriktor Angiotensin II pada reseptor $AT_1$ otot polos vaskular.
+
+18. **Labu Siam (*Sechium edule* (Jacq.) Sw. - Cucurbitaceae)**
+* *Data Etnomedisin:* Dimanfaatkan sebesar 2% oleh masyarakat Kecamatan Negeri Katon, Kabupaten Pesawaran (Ratnasari dkk., 2025). Buah labu siam diolah secara dekoksi air maupun dikonsumsi sebagai lalapan terapeutik penurun tekanan darah.
+* *Konstituen Kimia:* Kalium berkonsentrasi tinggi, alkaloid, flavonoid, saponin, asam folat, dan serat larut air (*pectin*).
+* *Mekanisme Hipotensif:* Tingginya rasio kation kalium terhadap natrium memicu mekanisme diuresis osmotik dan natriuresis pada tubulus renalis, mengurangi volume cairan intravaskular terdistribusi, serta menginduksi hiperpolarisasi membran sel endotel untuk merelaksasi dinding vaskular.
+
+19. **Binahong (*Anredera cordifolia* (Ten.) Steenis - Basellaceae)**
+* *Data Etnomedisin:* Dimanfaatkan sebesar 2% oleh masyarakat Kecamatan Negeri Katon, Kabupaten Pesawaran (Ratnasari dkk., 2025) dengan cara merebus daun segar dan meminum air dekoksinya.
+* *Konstituen Kimia:* Saponin triterpenoid, flavonoid (kuersetin, luteolin), asam oleanolat, asam askorbat, dan polifenol.
+* *Mekanisme Hipotensif:* Kandungan flavonoid dan asam oleanolat memiliki aktivitas inhibisi kompetitif terhadap enzim *Angiotensin Converting Enzyme* (ACE), mencegah vasokonstriksi arteriol yang diperantarai Ang II, serta melindungi elastisitas lumen mikrovaskular melalui aktivitas antioksidan radikal bebas.
+
+20. **Sambiloto (*Andrographis paniculata* (Burm.f.) Nees - Acanthaceae)**
+* *Data Etnomedisin:* Dimanfaatkan oleh masyarakat Kecamatan Negeri Katon, Kabupaten Pesawaran (Ratnasari dkk., 2025) dan dilaporkan dalam tinjauan etnofarmasi lintas etnis Indonesia (Novriana dkk., 2024). Diolah secara perebusan (dekoksi) daun dan herba.
+* *Konstituen Kimia:* Lakton diterpenoid (andrografolida, neoandrografolida, 14-deoksi-11,12-didehidroandrografolida), flavonoid, dan polifenol.
+* *Mekanisme Hipotensif:* Andrografolida bekerja memblokade kanal kalsium tipe L peka voltase pada miosit vaskular yang memicu vasodilatasi langsung, serta menstimulasi sekresi NO dari sel endotel vaskular.
+
+#### Matriks Sintesis Tumbuhan Obat Antihipertensi
+
+Sebagai ikhtisar komprehensif dari tinjauan pustaka fitofarmakologi dan bukti etnomedisin, keterkaitan antara organ yang digunakan, teknik pengolahan, data frekuensi empiris, konstituen kimia, dan mekanisme aksi hipotensif disajikan pada Tabel 2.1 berikut:
+
+**Tabel 2.1 Sintesis Karakteristik Botani, Etnomedisin, Fitokimia, dan Mekanisme Hipotensif Spesies Tanaman Potensial**
+
+| No | Spesies & Famili | Organ | Pengolahan | Data Etnomedisin (Frekuensi / RFC / FL) | Konstituen Kimia Utama | Mekanisme Aksi Hipotensif Utama |
+|:---|:---|:---|:---|:---|:---|:---|
+| 1 | *Persea americana* Mill. (Lauraceae) - **Daun Alpukat** | Daun | Perebusan, diminum | Peringkat 1 (27%) di Negeri Katon Pesawaran (Ratnasari dkk., 2025) | Flavonoid (kuersetin, rutin), saponin, kalium | Vasodilatasi via stimulasi eNOS/NO, inhibisi kompetitif ACE, dan natriuresis kalium |
+| 2 | *Syzygium polyanthum* (Wight) Walp. (Myrtaceae) - **Daun Salam** | Daun | Perebusan, diminum | Peringkat 2 (15%) di Pesawaran (Ratnasari dkk., 2025); RFC 87,50% di Wajo (Surianti dkk., 2025) | Flavonoid (kuersetin), tanin, sitral, eugenol | Vasodilatasi via aktivasi NO vaskular dan penekanan stres oksidatif endotel |
+| 3 | *Piper betle* L. (Piperaceae) - **Daun Sirih** | Daun | Perebusan, diminum | Peringkat 3 (13%) di Negeri Katon Pesawaran (Ratnasari dkk., 2025) | Minyak atsiri (kavikol, eugenol), flavonoid, tanin | Relaksasi otot polos arteriola via modulasi kanal $Ca^{2+}$ dan proteksi endotel |
+| 4 | *Orthosiphon stamineus* Benth. (Lamiaceae) - **Kumis Kucing** | Daun | Perebusan, diminum | Pemanfaatan 5% di Pesawaran (Ratnasari dkk., 2025); tinjauan nasional (Novriana dkk., 2024) | Sinensetin, eupatorin, garam kalium tinggi | Diuretik poten via antagonisme reseptor adenosin $A_1$ dan relaksasi vaskular |
+| 5 | *Apium graveolens* L. (Apiaceae) - **Seledri** | Herba / Daun | Perebusan / jus, diminum | Pemanfaatan 5% di Pesawaran (Ratnasari dkk., 2025); RFC 81,25% di Wajo (Surianti dkk., 2025) | Apigenin, 3-n-butilftalid, manitol, kalium | Blokade kanal kalsium (*calcium channel blocker* alami) dan relaksasi miosit |
+| 6 | *Artocarpus heterophyllus* Lam. (Moraceae) - **Daun Nangka** | Daun | Perebusan, diminum | Pemanfaatan 4% di Negeri Katon Pesawaran (Ratnasari dkk., 2025) | Flavonoid prenyl (morin, artokarpin), tanin | Vasodilatasi vaskular via stimulasi pelepasan NO dan hambatan influks kalsium |
+| 7 | *Physalis angulata* L. (Solanaceae) - **Ciplukan** | Herba / Daun | Perebusan, diminum | Pemanfaatan 4% di Negeri Katon Pesawaran (Ratnasari dkk., 2025) | Fisalin (A, B, D, F), withanolida, flavonoid | Proteksi antioksidan vaskular dan relaksasi arteriol via penekanan influks $Ca^{2+}$ |
+| 8 | *Annona muricata* L. (Annonaceae) - **Daun Sirsak** | Daun | Perebusan, diminum | Pemanfaatan 2% di Pesawaran (Ratnasari dkk., 2025); studi Maros (Alifiah dkk., 2026) | Alkaloid isokuinolin (anonain), asetogenin | Blokade kanal $Ca^{2+}$ tipe L vaskular dan modulasi penurunan tonus simpatis |
+| 9 | *Allium sativum* L. (Amaryllidaceae) - **Bawang Putih** | Umbi | Dikunyah mentah / rebus | Pemanfaatan 2% di Pesawaran (Ratnasari dkk., 2025); RFC 75,00% di Wajo (Surianti dkk., 2025) | Alisin, dialil disulfida, adenosin | Pelepasan hidrogen sulfida ($H_2S$), bioavailabilitas NO, vasodilatasi sistemik |
+| 10 | *Curcuma longa* L. (Zingiberaceae) - **Kunyit** | Rimpang | Perebusan jamu, diminum | Pemanfaatan 2% di Negeri Katon Pesawaran (Ratnasari dkk., 2025) | Kurkuminoid (kurkumin), minyak atsiri turmeron | Peningkatan ekspresi eNOS endotel dan supresi sinyal vasokonstriktor Ang II |
+| 11 | *Sechium edule* (Jacq.) Sw. (Cucurbitaceae) - **Labu Siam** | Buah | Perebusan / jus, diminum | Pemanfaatan 2% di Negeri Katon Pesawaran (Ratnasari dkk., 2025) | Kalium tinggi, flavonoid, serat larut | Diuresis natriuretik osmotik ginjal dan hiperpolarisasi sel membran endotel |
+| 12 | *Anredera cordifolia* (Ten.) Steenis (Basellaceae) - **Binahong** | Daun | Perebusan, diminum | Pemanfaatan 2% di Negeri Katon Pesawaran (Ratnasari dkk., 2025) | Saponin triterpenoid, flavonoid, asam oleanolat | Inhibisi aktivitas ACE dan perlindungan integritas dinding mikrovaskular |
+| 13 | *Andrographis paniculata* Nees (Acanthaceae) - **Sambiloto** | Herba / Daun | Perebusan, diminum | Pemanfaatan 1% di Pesawaran (Ratnasari dkk., 2025); review nasional (Novriana dkk., 2024) | Andrografolida, deoksiandrografolida | Blokade kanal kalsium transmembran miosit dan stimulasi sekresi NO |
+| 14 | *Cucumis sativus* L. (Cucurbitaceae) - **Mentimun** | Buah | Jus / parut, diminum | RFC 93,75% di Wajo (Surianti dkk., 2025); 32 sitasi di Aceh (Novriana dkk., 2024) | Kalium, kukurbitasin, flavonoid | Diuresis osmotik via eliminasi natrium ginjal, menurunkan volume plasma |
+| 15 | *Averrhoa bilimbi* L. (Oxalidaceae) - **Belimbing Wuluh** | Buah / Daun | Perebusan, diminum | RFC 75,00% di Wajo (Surianti dkk., 2025); 24 sitasi di Aceh (Novriana dkk., 2024) | Flavonoid, kalium sitrat, pektin | Diuresis natriuretik ginjal dan modulasi penekanan tonus saraf simpatis |
+| 16 | *Phaleria macrocarpa* Boerl. (Thymelaeaceae) - **Mahkota Dewa** | Daging buah | Perebusan, diminum | RFC 1,00 dan FL 100% di Papua Barat (Ikhsan & Kurniawan, 2025) | Phalerin, mangiferin, flavonoid | Inhibisi kompetitif enzim ACE dan stimulasi pelepasan prostaglandin vasodilator |
+| 17 | *Gynura procumbens* Merr. (Asteraceae) - **Daun Sambung Nyawa** | Daun | Perebusan / lalapan | Kajian etnomedisin Kampar Riau (Ningsih & Syarif, 2025) | Kaempferol, kuersetin, asam klorogenat | Supresi influks $Ca^{2+}$ dan hambatan ekspresi reseptor $AT_1$ vaskular |
+| 18 | *Morinda citrifolia* L. (Rubiaceae) - **Mengkudu** | Buah | Pengejusan / rebus, diminum | 34 sitasi di Aceh (Novriana dkk., 2024); studi Papua (Ikhsan & Kurniawan, 2025) | Skopoletin, serotonin, kalium | Blokade reseptor adrenergik vaskular dan pelebaran arteriola perifer |
+| 19 | *Zingiber officinale* Roscoe (Zingiberaceae) - **Jahe** | Rimpang | Perebusan / seduhan | RFC 0,95 dan FL 95% di Papua Barat (Ikhsan & Kurniawan, 2025) | 6-gingerol, 6-shogaol, zingeron | Blokade kanal $Ca^{2+}$ tipe L dan stimulasi pelepasan prostasiklin vaskular |
+| 20 | *Hibiscus sabdariffa* L. (Malvaceae) - **Bunga Rosela** | Kelopak bunga | Perebusan / seduhan | Kajian Suku Moi Sorong (Muslihin dkk., 2024); Papua (Ikhsan & Kurniawan, 2025) | Antosianin (delfinidin/sianidin-3-sambubiosida) | Inhibisi kuat enzim ACE dan stimulasi pembuangan natrium tubular renalis |
 
 
 
@@ -586,8 +669,6 @@ Faruque, M. O., Uddin, S. B., Barlow, J. W., Hu, S., Dong, S., Cai, Q., Li, X., 
 
 Friedman, J., Yaniv, Z., Dafni, A., & Palewitch, D. (1986). A preliminary classification of the healing potential of medicinal plants, based on an ethnopharmacological survey among Bedouins in the Negev Desert, Israel. *Journal of Ethnopharmacology*, 16(2–3), 275–287. https://doi.org/10.1016/0378-8741(86)90094-2
 
-Hasanuddin, Djufri, Kusyanti, & Nazaruddin. (2021). Ethnobotanical survey of medical plant used for the treatment of hypertension in Subulussalam Sub-District Aceh, Indonesia. *Jurnal Biotik*, 9(1), 1–14. https://doi.org/10.22373/biotik.v9i1.9279
-
 Hoffman, B., & Gallaher, T. (2007). Importance indices in ethnobotany. *Ethnobotany Research and Applications*, 5, 201–218.
 
 Ikhsan, M., & Kurniawan, A. P. (2025). Keanekaragaman jenis tumbuhan berkhasiat obat sebagai agen antihipertensi di Kampung Udapi, Papua Barat. *Kaunia: Integration and Interconnection of Islam and Science Journal*, 21(2), 69–78.
@@ -600,9 +681,13 @@ Muslihin, A. M., Irwandi, Fabanyo, S. H., Tunazzila, N., Maulana, F., & Aisyah, 
 
 Ningsih, F. C., & Syarif, M. I. (2025). Kajian etnomedisan obat herbal hipertensi menggunakan ekstrak daun penyambung nyawa pada masyarakat Kampar sebagai sumber belajar IPA. *Jurnal Inovasi Pendidikan Sains (JIPS)*, 6(1), 37–45. https://doi.org/10.37729/jips.v6i1.5150
 
+Novriana, D., Oktoba, Z., Oktarlina, R. Z., & Triyandi, R. (2024). Review: Studi etnofarmasi pemanfaatan tumbuhan berkhasiat obat untuk penyakit hipertensi oleh beberapa etnis di Indonesia. *Sains Medisina*, 2(4), 111–117.
+
 Otoluwa, A. S., Syahrir, M., Tongko, M., & Kanan, M. (2025). Praktik etnomedisin dalam tradisi pengobatan masyarakat suku terasing di Kabupaten Banggai. *Jurnal Kesmas Untika Luwuk: Public Health Journal*, 16(2), 157–166. https://doi.org/10.51888/phj.v16i2.388
 
 Pemerintah Pekon Sukaraja. (2024). *Monografi dan Profil Pekon Sukaraja Kecamatan Gadingrejo*. Arsip Kantor Pekon Sukaraja.
+
+Ratnasari, D., Safutri, W., Dwiningrum, R., & Daskar, A. (2025). Studi etnomedisin tumbuhan berkhasiat sebagai obat hipertensi di Kecamatan Negeri Katon Kabupaten Pesawaran. *Journal of Innovative and Creativity (JoECY)*, 5(2), 21169–21175.
 
 Surianti, T., Wulansari, E., Wijaya, N., Ruslang, Azis, A. Y., Yammar, & Darwis, N. (2025). Etnomedisin tanaman antihipertensi Suku Bugis Wajo: An exploratory study of cultural practices. *Jurnal Sains dan Kesehatan*, 4(2), 11–18. https://doi.org/10.57151/jsika.v4i2.1071
 
